@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yin Huang, I am currently pursuing my Master's degree in Intelligent Systems Engineering at Southwest Jiaotong University (2023-2026 expected), where I serve as a research fellow in the Big Data Analytics Laboratory under Prof. [Advisor's Name]. My academic trajectory focuses on developing novel AI architectures for spatiotemporal pattern discovery, particularly in urban mobility systems.
+I am Yin Huang, I am currently pursuing my Master's degree in Intelligent Systems Engineering at Southwest Jiaotong University (2022.9-2025.6 expected), where I serve as a research fellow in the Big Data Analytics Laboratory under Prof. [Advisor's Name]. My academic trajectory focuses on developing novel AI architectures for spatiotemporal pattern discovery, particularly in urban mobility systems.
 
 Biography
 ======
