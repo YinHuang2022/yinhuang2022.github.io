@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
+
 CV in PDF
 
 Education
