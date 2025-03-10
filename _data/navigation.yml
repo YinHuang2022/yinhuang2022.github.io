@@ -11,7 +11,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
+  - title: "Publications"
     url: /teaching/    
     
   # - title: "Portfolio"
@@ -23,5 +23,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  # - title: "Guide"
+  #   url: /markdown/
+    
+  - title: "Awards"
     url: /markdown/
