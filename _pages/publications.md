@@ -10,6 +10,12 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+I am Yin Huang, I am currently pursuing my Master's degree in Intelligent Systems Engineering at Southwest Jiaotong University (2022.9-2025.6), where I serve as a research fellow in the National Engineering Laboratory of Integrated Transportation Big Data Application Technology. My academic trajectory focuses on developing novel AI architectures for spatiotemporal pattern discovery, particularly in urban mobility systems.
+
+I am seeking research assistant positions (2025-2026) followed by PhD opportunities (Spring/Fall 2026 intake) to advance these directions. Specifically interested in: • Cross-modal spatiotemporal representation learning • Physics-informed neural operators for urban systems • Decentralized learning architectures for IoT sensor networks
+
+
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
