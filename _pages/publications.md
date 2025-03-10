@@ -1,18 +1,5 @@
 
 ---
-
-
-permalink: /
-title: "Publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-hello every!!!
-
-
----
 layout: archive
 title: "Publications"
 permalink: /publications/
