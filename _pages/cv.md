@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-CV in PDF
 
+[CV in PDF](https://YinHuang2022/yinhuang2022.github.io/files/CV_YinHuang.pdf)
 Education
 ======
 * M.S. in Southwest Jiaotong University, 2022-present
