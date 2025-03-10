@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+CV in PDF
+
 Education
 ======
 * M.S. in Southwest Jiaotong University, 2022-present
