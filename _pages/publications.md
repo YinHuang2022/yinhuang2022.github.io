@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 My publications will be regularly updated on [Google Scholar](https://scholar.google.com/citations?user=L2kD-DwAAAAJ&hl=en) profile and [ResearchGate](https://www.researchgate.net/profile/Yongqi-Dong) profile.
-
+{% include base_path %}
 ## Journal Papers
 1. **Dong, Y.**<sup>#,</sup>\*, Zhang, L.<sup>#</sup>, Farah, H., Zgonnikov, A., & van Arem, B. (2025). Data-driven Semi-supervised Machine Learning with Safety Indicators for Abnormal Driving Behavior Detection, **accepted** by *Transportation Research Record: Journal of the Transportation Research Board*, **accepted** by and presented at *the 35th annual meeting of International Co-operation on Theories and Concepts in Traffic Safety (ICTCT Catania 2023)* and _TRB 2024_, [Preprint](https://doi.org/10.48550/arXiv.2312.04610).
 2. Berge, B., de Winter, J., Dodou, D., Pooyan Afghari, A., Papadimitriou, E., Reddy, N., **Dong, Y.**, Raju, N., & Farah, H. (2025). [Understanding cyclists' perception of driverless vehicles through eye-tracking and interviews](https://doi.org/10.1016/j.trf.2024.11.015). _Transportation Research Part F: Traffic Psychology and Behaviour_, _109_, 399-420.
