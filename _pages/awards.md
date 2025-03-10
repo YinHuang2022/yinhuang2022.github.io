@@ -8,12 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-awards in PDF
-
-Education
-======
+* Second-class Academic Scholarship of Southwest Jiaotong University
+* First -class Academic Scholarship of Southwest Jiaotong University
 * M.S. in Southwest Jiaotong University, 2022-present
 * B.S. in Southwest Jiaotong University, 2018-2022
 
