@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[CV in PDF](https://yinhuang2022/yinhuang2022.github.io/files/CV-YinHuang.pdf)
+[CV in PDF](https://github.com/yinhuang2022/yinhuang2022.github.io/files/CV-YinHuang.pdf)
 
 Education
 ======
