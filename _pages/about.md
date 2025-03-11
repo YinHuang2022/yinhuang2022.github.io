@@ -13,7 +13,9 @@ I am Huang Yin, a Master's candidate at Southwest Jiaotong University pursuing a
   -  Mobile spatiotemporal pattern analysis  
   -  Transport & Traffic Safety  
   -  Data-driven transportation facility safety management  
-  -  Deep Learning/Deep Reinforcement Learning applications in transport services (prediction, classification, anomaly detection, optimization)  
+  -  Deep Learning/Deep Reinforcement Learning applications in transport services (prediction, classification, anomaly detection, optimization)
+  
+
 <mark style="background-color: SpringGreen">I am seeking research assistant positions (2025-2026) followed by Ph.D. opportunities (Spring or Fall 2026 intake). </mark>I welcome discussions about aligning my work with your research group's vision for intelligent transportation systems.
 
 
