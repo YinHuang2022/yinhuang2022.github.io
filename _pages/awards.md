@@ -12,8 +12,8 @@ redirect_from:
 * Third Prize of the 19th China Post-Graduate Mathematical Contest in Modeling 	Jan. 2023
 * First -class Academic Scholarship of Southwest Jiaotong University 	Nov. 2022
 * Postgraduate Recommendation to Southwest Jiaotong University without Examination 	Oct. 2022
-* Second Prize of China Undergraduate Mathematical Contest in Modeling [CUMCM](https://www.mcm.edu.cn/)	Nov. 2020
-* Third Prize of Chinese Competition of Transport Science and Technology (NACTranS)	Nov. 2020
+* Second Prize of China Undergraduate Mathematical Contest in Modeling [(CUMCM)](https://www.mcm.edu.cn/)	Nov. 2020
+* Third Prize of Chinese Competition of Transport Science and Technology [(NACTranS)](https://www.nactrans.com.cn/)	Nov. 2020
 * First Prize in the Chinese Mathematics Competitions for Undergraduates (Sichuan Sub-venue)	Nov. 2019
 
 
