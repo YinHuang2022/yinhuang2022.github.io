@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Huang Yin, a Master's candidate at Southwest Jiaotong University pursuing a degree in Safety Science and Engineering. Based at the National Engineering Laboratory for Comprehensive Transportation Big Data Application Technology, my research focuses on AI-powered spatiotemporal transportation data mining, including:  
+I am Huang Yin, a Master's candidate at Southwest Jiaotong University pursuing a degree in Safety Science and Engineering. Based at the [National Engineering Laboratory for Comprehensive Transportation Big Data Application Technology](https://ctt.swjtu.edu.cn/yethan/WebIndexAction?setAction=common&sid=79FADCFD4573759D), my research focuses on AI-powered spatiotemporal transportation data mining, including:  
 
 • Multimodal transportation data fusion and mining  
 • Mobile spatiotemporal pattern analysis  
