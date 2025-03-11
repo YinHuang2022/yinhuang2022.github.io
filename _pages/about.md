@@ -9,12 +9,12 @@ redirect_from:
 
 I am Huang Yin, a Master's candidate at Southwest Jiaotong University pursuing a degree in Safety Science and Engineering. Based at the [National Engineering Laboratory for Comprehensive Transportation Big Data Application Technology](https://ctt.swjtu.edu.cn/yethan/WebIndexAction?setAction=common&sid=79FADCFD4573759D), my research focuses on AI-powered spatiotemporal transportation data mining, including:  
 
-  •  Multimodal transportation data fusion and mining  
-  •  Mobile spatiotemporal pattern analysis  
-  •  Transport & Traffic Safety  
-  •  Data-driven transportation facility safety management  
-  •  Deep Learning/Deep Reinforcement Learning applications in transport services (prediction, classification, anomaly detection, optimization)  
-<font color=Red>I am seeking research assistant positions (2025-2026) followed by Ph.D. opportunities (Spring or Fall 2026 intake). </font>I welcome discussions about aligning my work with your research group's vision for intelligent transportation systems.
+  -  Multimodal transportation data fusion and mining  
+  -  Mobile spatiotemporal pattern analysis  
+  -  Transport & Traffic Safety  
+  -  Data-driven transportation facility safety management  
+  -  Deep Learning/Deep Reinforcement Learning applications in transport services (prediction, classification, anomaly detection, optimization)  
+<mark style="background-color: SpringGreen">I am seeking research assistant positions (2025-2026) followed by Ph.D. opportunities (Spring or Fall 2026 intake). </mark>I welcome discussions about aligning my work with your research group's vision for intelligent transportation systems.
 
 
 Biography
